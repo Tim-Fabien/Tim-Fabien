@@ -8,8 +8,7 @@ I drive modern data architecture, platform strategy, and responsible AI adoption
 ### 🧠 Focus Areas
 - Generative AI Ecosystems (LLMs, Agents, Vector Search)
 - AI Stack Tools: LangChain • dbt • Databricks • Hugging Face
-- Cloud & Platform: Snowflake • GCP • AWS • Azure (certified)
-
+- Cloud & Platform: Snowflake • GCP • Azure • AWS (certified)
 ---
 
 ### 🛠️ Tech Radar

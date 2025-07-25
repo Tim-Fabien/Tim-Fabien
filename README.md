@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Tim-Fabien
+### 👋 Hi, I'm
 
 🎯 VP Data & AI | Strategy & Execution for Scalable Platforms, GenAI & Data Transformation  
 I drive modern data architecture, platform strategy, and responsible AI adoption at scale with a focus on real business impact.
@@ -30,5 +30,4 @@ I drive modern data architecture, platform strategy, and responsible AI adoption
 ---
 
 📬 **Let’s connect:**  
-📎 [LinkedIn.com/in/timfabien](https://www.linkedin.com/in/timfabien/)  
 🎸 GitHub = my radar for meaningful AI & data innovation

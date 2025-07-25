@@ -1,6 +1,6 @@
-### 👋 Hi, I'm
+### 👋 Hi,
 
-🎯 VP Data & AI | Strategy & Execution for Scalable Platforms, GenAI & Data Transformation  
+🎯 I'm VP Data & AI | Strategy & Execution for Scalable Platforms, GenAI & Data Transformation  
 I drive modern data architecture, platform strategy, and responsible AI adoption at scale with a focus on real business impact.
 
 ---

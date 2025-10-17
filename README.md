@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Tim-Fabien
 
 🎯 **VP Data & AI | Applied AI & Consumer Platforms**
+
 I help organizations scale data and product platforms that power personalization, experimentation, and retail media.
 15+ years leading data & product teams across high-growth consumer platforms in Europe.
 

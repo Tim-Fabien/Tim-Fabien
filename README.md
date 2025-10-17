@@ -1,28 +1,28 @@
 # 👋 Hi, I'm Tim-Fabien
 
-🎯 **VP Data & AI | Applied AI & Consumer Platforms**  
-I help organizations scale data platforms, embed AI into products, and turn analytics into measurable growth.  
-15+ years leading global data & AI teams in high-growth consumer platforms and digital businesses across Europe.  
+🎯 **VP Data & AI | Applied AI & Consumer Platforms**
+I help organizations scale data and product platforms that power personalization, experimentation, and retail media.
+15+ years leading data & product teams across high-growth consumer platforms in Europe.
 
 ---
 
 ## 🧠 Focus Areas
 
-- **Applied AI** → Personalization, Fraud Detection, Service Optimization  
-- **Experimentation @ Scale** → A/B testing, causal inference, uplift modeling  
-- **Modern Data Stack** → dbt • Snowflake • Databricks • Hugging Face • LangChain  
-- **Data Platform Leadership** → Governance, self-service analytics, data mesh
+- **Data & Product Platforms** → Self-service architecture, governance, interoperability
+- **Retail Media & MarTech** → CDP integration, campaign automation, monetization
+- **Experimentation @ Scale** → A/B testing, causal inference, uplift modeling
+- **Applied AI** → Personalization, recommendation, creative optimization
 
 ---
 
 ## 📌 Pinned Work
 
-- 🛡️ **Fraud Detection Demo** → ML pipeline for anomaly detection in transactions  
+- 🛡️ **Fraud Detection Demo** → ML pipeline for anomaly detection in transactions
+- 📊 **Data Strategy Deck** → Slide deck: modern, AI-ready data strategy foundations
 - 🎯 **Consumer Personalization Playbook** → Notebooks on recommendations & retention  
-- 🛠️ **dbt Analytics Template** → Marketing attribution & CLV models  
-- 🤖 **GenAI Service Ops** → LangChain/Hugging Face NL-to-SQL demo for support teams  
-- 📊 **Data Strategy Deck** → Slide deck: modern, AI-ready data strategy foundations  
-- 📡 **Stack Radar 2025** → Curated overview of AI/Data ecosystem tools & signals
+- 🛠️ **dbt Analytics Template** → Marketing Attribution & ROI Modeling
+- 🤖 **GenAI Service Ops** → LangChain/Hugging Face NL-to-SQL demo for support teams
+- 📡 **AI & Data Platform Landscape 2025** → Curated overview of AI/Data ecosystem tools & signals
 
 ---
 
@@ -41,20 +41,23 @@ I help organizations scale data platforms, embed AI into products, and turn anal
 
 ## 🏆 Impact Highlights
 
-- Scaled **marketing and product analytics** across >15 international markets, introducing multi-touch attribution, media mix modeling, and reactivation forecasting.  
+- Scaled **marketing and product analytics** across >15 international markets, introducing multi-touch attribution, media mix modeling, and reactivation forecasting.
+- Defined and scaled data platform product strategy for marketing and retail media ecosystems, bridging MarTech, CRM, and data engineering teams. 
 - Directed a **data tribe of 20+ specialists**, embedding data mesh practices and reusable analytics products into a global consumer platform.  
 - Modernized pipelines and governance (OpenMetadata, dbt, Parquet), improving reliability by 70% and enabling **self-service analytics** across thousands of users.  
 - Re-architected **CRM and Paid Marketing pipelines** (Braze, attribution platforms) to cut ad-hoc reporting by half and lift activation efficiency by 30%.  
-- Introduced an **AI-assisted analytics agent** for SQL automation, reducing manual workload by ~40%.  
+- Introduced an **AI-assisted analytics agent** for SQL automation, reducing manual workload by ~40%.
+- Delivered platform roadmaps connecting data capabilities (Snowflake, Databricks) with business outcomes in advertising and personalization.
 
 ---
 
 ## 🎤 Thought Leadership
 
 - Scaling experimentation in consumer tech  
-- GenAI readiness playbooks for product organizations  
-- AI governance & EU AI Act implications  
+- GenAI readiness playbooks for product organizations
+- Retail Media platform economics and the intersection of MarTech, CDP, and data infrastructure
 - Data strategy for growth & retention in subscription and marketplace models
+- AI governance & EU AI Act implications
 
 ---
 

@@ -1,67 +1,84 @@
 # 👋 Hi, I'm Tim-Fabien
 
-🎯 **VP Data & AI | Applied AI & Consumer Platforms**
+**Data & AI Leader | Data Platforms, Governance & Applied AI**
 
-I help organizations scale data and product platforms that power personalization, experimentation, and retail media.
-15+ years leading data & product teams across high-growth consumer platforms in Europe.
+I build the structures that turn data and AI from isolated initiatives into capabilities organizations can actually scale.
 
----
+Over 15+ years, I've worked across consumer tech, marketplaces and enterprise environments — connecting business priorities, data platforms, governance and delivery.
 
-## 🧠 Focus Areas
-
-- **Data & Product Platforms** → Self-service architecture, governance, interoperability
-- **Retail Media & MarTech** → CDP integration, campaign automation, monetization
-- **Experimentation @ Scale** → A/B testing, causal inference, uplift modeling
-- **Applied AI** → Personalization, recommendation, creative optimization
+My focus today is the intersection of **data engineering, platform strategy, AI enablement and organizational design**.
 
 ---
 
-## 📌 Pinned Work
+## What I work on
 
-- 🛡️ **Fraud Detection Demo** → ML pipeline for anomaly detection in transactions
-- 📊 **Data Strategy Deck** → Slide deck: modern, AI-ready data strategy foundations
-- 🎯 **Consumer Personalization Playbook** → Notebooks on recommendations & retention  
-- 🛠️ **dbt Analytics Template** → Marketing Attribution & ROI Modeling
-- 🤖 **GenAI Service Ops** → LangChain/Hugging Face NL-to-SQL demo for support teams
-- 📡 **AI & Data Platform Landscape 2025** → Curated overview of AI/Data ecosystem tools & signals
+- **Data & AI Platforms** → Snowflake, cloud data platforms, self-service and reusable data products
+- **Data Governance** → ownership models, data contracts, stewardship, metadata and decision rights
+- **Analytics Engineering** → dbt, dimensional modeling, testing and reliable delivery pipelines
+- **Applied AI** → LLM-enabled analytics, agents, RAG and AI-ready data foundations
+- **Marketing & Customer Data** → attribution, experimentation, CRM, CLV and personalization
 
 ---
 
-## 🛠️ Tech Radar
+## Selected Work
+
+### 🏗️ Data Platform & Engineering
+- **Snowflake Labs** → hands-on patterns for architecture, performance, security and governance
+- **dbt Analytics Template** → reusable analytics engineering project with testing and documentation
+- **Modern Data Stack Examples** → pipelines from ingestion to transformation and consumption
+
+### 🤖 Applied AI
+- **AI Analytics Agent** → natural-language-to-SQL and governed data access experiments
+- **RAG / Enterprise AI Demo** → grounding LLM applications in organizational data
+- **AI Governance Patterns** → practical approaches for controlling AI access to enterprise data
+
+### 📊 Data Strategy
+- **Data Strategy Toolkit** → translating business problems into platform capabilities and delivery priorities
+- **Governance Playbook** → ownership, stewardship and decision models for federated organizations
+- **Marketing Measurement** → attribution, MMM, experimentation and incrementality examples
+
+---
+
+## Experience behind the code
+
+I've led data and analytics initiatives across organizations including **HelloFresh, FREE NOW and Oetker Digital**.
+
+Examples include:
+
+- Leading data and analytics teams and portfolios across international organizations
+- Building governance models spanning multiple companies and business units
+- Modernizing marketing, CRM and analytics data pipelines
+- Connecting Snowflake, cloud infrastructure and analytics engineering with business use cases
+- Building experimentation, attribution, MMM and customer-lifecycle capabilities
+- Working across business, engineering, product and executive teams to turn ambiguous data problems into executable decisions
+
+I increasingly use GitHub to turn those patterns into **small, reusable implementations rather than slideware**.
+
+---
+
+## Current Lab
+
+I'm currently going deeper into:
+
+`Snowflake` · `dbt` · `Python` · `AWS` · `Data Engineering` · `LLM Applications` · `AI Governance`
+
+The goal isn't collecting technologies — it's understanding where they meaningfully improve how organizations build and operate data products.
+
+---
+
+## Tech
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-2b303a?style=flat&logo=snowflake)
-![Databricks](https://img.shields.io/badge/-Databricks-eb3c00?style=flat&logo=databricks)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FCC624?style=flat&logo=huggingface)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud)
+![Databricks](https://img.shields.io/badge/-Databricks-eb3c00?style=flat&logo=databricks)
 
 ---
 
-## 🏆 Impact Highlights
+## Connect
 
-- Scaled **marketing and product analytics** across >15 international markets, introducing multi-touch attribution, media mix modeling, and reactivation forecasting.
-- Defined and scaled data platform product strategy for marketing and retail media ecosystems, bridging MarTech, CRM, and data engineering teams. 
-- Directed a **data tribe of 20+ specialists**, embedding data mesh practices and reusable analytics products into a global consumer platform.  
-- Modernized pipelines and governance (OpenMetadata, dbt, Parquet), improving reliability by 70% and enabling **self-service analytics** across thousands of users.  
-- Re-architected **CRM and Paid Marketing pipelines** (Braze, attribution platforms) to cut ad-hoc reporting by half and lift activation efficiency by 30%.  
-- Introduced an **AI-assisted analytics agent** for SQL automation, reducing manual workload by ~40%.
-- Delivered platform roadmaps connecting data capabilities (Snowflake, Databricks) with business outcomes in advertising and personalization.
+🔗 [LinkedIn](https://www.linkedin.com/in/timfabien/)
 
----
-
-## 🎤 Thought Leadership
-
-- Scaling experimentation in consumer tech  
-- GenAI readiness playbooks for product organizations
-- Retail Media platform economics and the intersection of MarTech, CDP, and data infrastructure
-- Data strategy for growth & retention in subscription and marketplace models
-- AI governance & EU AI Act implications
-
----
-
-📬 **Let’s connect:**  
-🔗 [LinkedIn.com/in/timfabien](https://www.linkedin.com/in/timfabien/)  
-🎸 GitHub = my radar for meaningful AI & data innovation
+GitHub is where I turn **data & AI strategy into things that can be inspected, tested and reused.**
